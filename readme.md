@@ -1,38 +1,48 @@
 # 🚀 Proyecto de Transformación Digital (RA6)
 
 ## 🧑‍💼 1. Empresa
-- Nombre de la empresa:
-- Sector:
+- Nombre de la empresa: Nico Solutions
+- Sector: Tecnología / Servicios digitales
 - Descripción breve:
-
+Empresa especializada en el desarrollo de software a medida para pequeñas y medianas empresas. Ofrece soluciones de automatización de procesos y servicios en la nube. Actualmente cuenta con una digitalización parcial y busca optimizar su eficiencia operativa y mejorar la experiencia del cliente.
 ---
 
 ## 🎯 2. Objetivos estratégicos (SMART)
 
 ### Objetivo 1
 - Descripción:
+Implementar un sistema CRM para mejorar la gestión de clientes y fortalecer la relación con ellos.
 - Métrica:
+Incrementar en un 25% la retención de clientes y reducir en un 30% el tiempo de respuesta a consultas.
 - Plazo:
+6 meses
 
 ### Objetivo 2
 - Descripción:
+Digitalizar los procesos internos mediante herramientas de automatización y gestión documental.
 - Métrica:
+Reducir en un 40% el uso de papel y en un 20% los tiempos de gestión interna.
 - Plazo:
+9 meses
 
 ### Objetivo 3
 - Descripción:
+Mejorar la presencia digital mediante una estrategia de marketing online y optimización web.
 - Métrica:
+Aumentar en un 50% el tráfico web y generar un 30% más de leads cualificados.
 - Plazo:
+12 meses
 
 ---
 
 ## 🏢 3. Áreas de la empresa
 
-| Área | Función | Sub-objetivo digital | Impacto esperado |
-|------|--------|----------------------|------------------|
-|      |        |                      |                  |
-|      |        |                      |                  |
-|      |        |                      |                  |
+| Área               | Función                                                    | Sub-objetivo digital                                                      | Impacto esperado                                                                         |
+| ------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Comercial / Ventas | Gestión de clientes, captación de leads y cierre de ventas | Implementar y utilizar un CRM para centralizar la información de clientes | Mejora en la conversión de leads, mayor fidelización y reducción de tiempos de respuesta |
+| Operaciones        | Desarrollo de software y gestión de proyectos              | Automatizar procesos internos y digitalizar la documentación              | Mayor eficiencia operativa, reducción de errores y optimización del tiempo de trabajo    |
+| Marketing          | Promoción de servicios y generación de demanda             | Optimizar la web, implementar SEO y campañas de marketing digital         | Incremento del tráfico web, mayor visibilidad de marca y aumento de leads cualificados   |
+
 
 ---
 
