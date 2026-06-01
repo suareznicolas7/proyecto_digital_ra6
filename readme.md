@@ -46,83 +46,183 @@ Aumentar en un 50% el tráfico web y generar un 30% más de leads cualificados.
 
 ---
 
-## ⚙️ 4. Tecnologías habilitadoras digitales (THD)
+⚙️ 4. Tecnologías habilitadoras digitales (THD)
 
-- Tecnología 1:
-  - Uso en la empresa:
-- Tecnología 2:
-  - Uso en la empresa:
-- Tecnología 3:
-  - Uso en la empresa:
-- Tecnología 4:
-  - Uso en la empresa:
-- Tecnología 5:
-  - Uso en la empresa:
+Tecnología 1: Computación en la nube (Cloud Computing)
 
----
+Uso en la empresa:
+Almacenamiento de documentación, alojamiento de aplicaciones y acceso remoto seguro a los sistemas de trabajo.
 
-## 📊 5. Datos y tratamiento de la información
+Tecnología 2: Inteligencia Artificial (IA)
 
-- Tipos de datos que genera la empresa:
-- Cómo se capturan:
-- Cómo se almacenan:
-- Cómo se procesan:
-- Cómo se analizan:
-- Uso en la toma de decisiones:
+Uso en la empresa:
+Automatización de respuestas a clientes, análisis de datos comerciales y generación de informes predictivos.
 
----
+Tecnología 3: Big Data y Analítica
 
-## 🔐 6. Seguridad y riesgos
+Uso en la empresa:
+Recopilación y análisis de datos de clientes, ventas y comportamiento web para apoyar la toma de decisiones.
 
-### Riesgos identificados
-1.
-2.
-3.
+Tecnología 4: Automatización de Procesos (RPA)
 
-### Medidas de protección
-1.
-2.
-3.
+Uso en la empresa:
+Automatización de tareas repetitivas como gestión documental, envío de correos y seguimiento de clientes.
 
----
+Tecnología 5: Ciberseguridad
 
-## 👨‍💻 7. Recursos humanos
+Uso en la empresa:
+Protección de datos empresariales, control de accesos, copias de seguridad y monitorización de amenazas.
+📊 5. Datos y tratamiento de la información
 
-- Nuevos perfiles necesarios:
-- Formación requerida:
-- Cambios organizativos:
+Tipos de datos que genera la empresa:
 
----
+Datos de clientes.
+Datos de ventas y presupuestos.
+Datos de proyectos.
+Datos de marketing digital.
+Datos financieros y administrativos.
 
-## 🔗 8. Integración de sistemas
+Cómo se capturan:
 
-- ERP utilizado o propuesto:
-- CRM utilizado o propuesto:
-- BPM / automatización:
-- Integración entre sistemas:
+Formularios web.
+CRM.
+Correos electrónicos.
+Redes sociales.
+Herramientas de gestión de proyectos.
 
----
+Cómo se almacenan:
 
-## 💡 9. Valor del proyecto
+Bases de datos en la nube.
+Servidores seguros.
+Sistemas de gestión documental.
 
-- Beneficios económicos:
-- Mejora operativa:
-- Ventaja competitiva:
-- Riesgos de no digitalizar:
+Cómo se procesan:
 
----
+Mediante software ERP, CRM y herramientas de automatización.
 
-## 📐 10. Modelado UML (OBLIGATORIO)
+Cómo se analizan:
 
-### Casos de uso
-- Actores:
-- Funcionalidades principales:
+Dashboards e informes de Business Intelligence (BI).
+Herramientas de analítica web y marketing.
 
-### Diagrama de clases
-- Entidades principales:
-- Relaciones:
+Uso en la toma de decisiones:
 
-### Diagrama de secuencia (opcional)
-- Caso representado:
+Identificación de oportunidades comerciales.
+Optimización de procesos internos.
+Evaluación del rendimiento empresarial.
+Planificación estratégica.
+🔐 6. Seguridad y riesgos
+Riesgos identificados
+Ciberataques y acceso no autorizado a datos.
+Pérdida de información por fallos técnicos.
+Errores humanos en la gestión de la información.
+Medidas de protección
+Implementación de autenticación multifactor (MFA) y control de accesos.
+Copias de seguridad automáticas y planes de recuperación ante desastres.
+Formación periódica en ciberseguridad para empleados.
+👨‍💻 7. Recursos humanos
 
----
+Nuevos perfiles necesarios:
+
+Especialista en CRM.
+Analista de datos.
+Especialista en marketing digital.
+Técnico de ciberseguridad.
+
+Formación requerida:
+
+Uso del CRM y ERP.
+Automatización de procesos.
+Protección de datos y ciberseguridad.
+Analítica digital y marketing online.
+
+Cambios organizativos:
+
+Mayor colaboración entre departamentos.
+Digitalización de flujos de trabajo.
+Gestión basada en datos e indicadores de rendimiento.
+🔗 8. Integración de sistemas
+
+ERP utilizado o propuesto:
+
+Odoo
+
+CRM utilizado o propuesto:
+
+HubSpot CRM
+
+BPM / automatización:
+
+Microsoft Power Automate
+
+Integración entre sistemas:
+
+Sincronización entre ERP, CRM y herramientas de marketing.
+Integración mediante APIs para compartir datos en tiempo real.
+Centralización de información para evitar duplicidades.
+💡 9. Valor del proyecto
+
+Beneficios económicos:
+
+Reducción de costes operativos.
+Incremento de ventas gracias a una mejor gestión comercial.
+Mayor rentabilidad de las campañas de marketing.
+
+Mejora operativa:
+
+Automatización de tareas repetitivas.
+Reducción de errores.
+Mayor productividad de los equipos.
+
+Ventaja competitiva:
+
+Mejor experiencia del cliente.
+Mayor capacidad de adaptación al mercado.
+Servicios más eficientes y personalizados.
+
+Riesgos de no digitalizar:
+
+Pérdida de competitividad.
+Procesos menos eficientes.
+Menor capacidad de captar y fidelizar clientes.
+Incremento de costes operativos.
+📐 10. Modelado UML (OBLIGATORIO)
+Casos de uso
+
+Actores:
+
+Cliente
+Comercial
+Responsable de Marketing
+Desarrollador
+Administrador del sistema
+
+Funcionalidades principales:
+
+Registrar clientes.
+Gestionar oportunidades de venta.
+Crear y gestionar proyectos.
+Consultar documentación.
+Generar informes.
+Automatizar tareas.
+Gestionar campañas de marketing.
+Administrar usuarios y permisos.
+Diagrama de clases
+
+Entidades principales:
+
+Cliente
+Comercial
+Proyecto
+Documento
+CampañaMarketing
+Informe
+Usuario
+
+Relaciones:
+
+Un Cliente puede tener varios Proyectos.
+Un Comercial gestiona varios Clientes.
+Un Proyecto genera varios Documentos.
+Una CampañaMarketing puede generar varios Clientes potenciales.
+Un Usuario puede acceder a distintos Documentos según sus permisos.
